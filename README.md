@@ -1,2 +1,2 @@
-This project involves creating a simple recipe page that contains links to individual recipe pages.
-An unordered list is used to organise and link to each recipe page.
+This project involves creating a simple recipe page that contains links to multiple recipes.
+An unordered list is used to link to each recipe page.
